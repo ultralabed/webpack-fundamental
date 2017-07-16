@@ -46,7 +46,7 @@ const config = {
           },
           'image-webpack-loader',
         ],
-        // e? <- wether with g or not will do
+        // e? <- wether with e or not will do
         test: /\.(jpe?g|png|gif|svg)$/,
       },
     ],
